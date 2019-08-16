@@ -1,7 +1,13 @@
 # Calcolatrice-Basilare
 Una semplice calcolatrice realizzata con VS2015 e C#
 
-PREREQUISITI: VISUAL STUDIO 2015 O VERSIONI SUCCESSIVE
+
+
+PREREQUISITI
+----------------------------
+VISUAL STUDIO 2015 O VERSIONI SUCCESSIVE
+
+
 
 Istruzioni
 -----------------------------
